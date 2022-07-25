@@ -3,7 +3,7 @@
 <!--
 **avishekdas128/avishekdas128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working at Tickertape.
+- 🔭 I’m currently working at [Tickertape](https://tickertape.in).
 - 🌱 I’m currently learning Jetpack Compose.
 - 💬 Ask me about Android.
 - 📫 How to reach me: [Twitter](https://twitter.com/avishekdas128) [Facebook](https://www.facebook.com/avishek.das.100) 
