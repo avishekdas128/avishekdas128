@@ -3,8 +3,8 @@
 <!--
 **avishekdas128/avishekdas128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working at [Tickertape](https://tickertape.in), a [smallcase](https://smallcase.com) product.
-- 🌱 I’m currently learning Jetpack Compose.
+- 🔭 I’m currently working at [Rapido](https://rapido.bike), previously worked at [smallcase](https://smallcase.com).
+- 🌱 I’m currently learning Kotlin Multiplatfomr.
 - 💬 Ask me about Android.
 - 📫 How to reach me: [Twitter](https://twitter.com/avishekdas128) [Facebook](https://www.facebook.com/avishek.das.100) [LinkedIn](https://www.linkedin.com/in/avishekdas128/)
 - ⚡ Fun fact: I play a lot of competitive games.
